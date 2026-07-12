@@ -1,0 +1,9 @@
+# Define two numbers
+num1 = 10
+num2 = 5
+
+# Add them together
+result = num1 + num2
+
+# Display the output
+print(f"The sum of {num1} and {num2} is {result}")
