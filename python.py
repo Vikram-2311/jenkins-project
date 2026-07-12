@@ -1,6 +1,6 @@
 # Define two numbers
 num1 = 15
-num2 = 5
+num2 = 10
 
 # Add them together
 result = num1 + num2
