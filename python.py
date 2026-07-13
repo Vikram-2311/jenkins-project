@@ -6,4 +6,4 @@ num2 = 10
 result = num1 + num2
 
 # Display the output
-prinThe sum of {num1} and {num2} is {result}")
+print The sum of {num1} and {num2} is {result}")
