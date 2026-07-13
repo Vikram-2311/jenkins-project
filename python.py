@@ -1,9 +1,5 @@
-# Define two numbers
-num1 = 15
+num1 = 5
 num2 = 10
-
-# Add them together
 result = num1 + num2
 
-# Display the output
-printf("The sum of {num1} and {num2} is {result}")
+print(result)
